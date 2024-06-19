@@ -1,7 +1,7 @@
 using CRUD_application_2.Models;
 using System.Linq;
 using System.Web.Mvc;
- 
+
 namespace CRUD_application_2.Controllers
 {
     public class UserController : Controller
